@@ -1,8 +1,8 @@
-# Hi there, I'm Uriel Gandelman 👋
+# Hi there, I'm Uriel Gandelman 
 
 ### Software Developer | AI Enthusiast | TIC Student
 
-I'm a software developer with a strong focus on backend architecture, mobile development, and integrating Artificial Intelligence into real-world applications. Currently in my 5th year studying Information and Communication Technologies (TIC) at ORT, and looking forward to pursuing my degree in engineering at ITBA. Always ready to build, iterate, and compete in hackathons.
+I'm a software developer with a strong focus on backend architecture, mobile development, and integrating Artificial Intelligence into real-world applications. Currently in my 5th year studying Information and Communication Technologies (TIC) at ORT. Always ready to build, iterate, and compete in hackathons.
 
 ---
 
@@ -46,6 +46,6 @@ I'm a software developer with a strong focus on backend architecture, mobile dev
 
 ---
 
-### 📫 Let's Connect!
+###  Let's Connect!
 *   **LinkedIn:** [https://www.linkedin.com/in/uriel-gandelman-341a60398/]
 *   **Email:** [urigandelman@gmail.com]
