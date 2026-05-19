@@ -39,7 +39,7 @@ I'm a software developer with a strong focus on backend architecture, mobile dev
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### ** AI & Machine Learning Capabilities**
+### **AI & Machine Learning Capabilities**
 *   **Applied Techniques:** Retrieval-Augmented Generation (RAG), Multimodal AI integration, Prompt Engineering, and Data Scraping.
 *   **LLM Integration:** Experience working with both cloud APIs (OpenAI, DeepSeek) and deploying/inferencing local models (Qwen).
 *   **Data & Predictive Models:** Implementation of specialized models for NLP and data analysis (FinBERT, XGBoost).
