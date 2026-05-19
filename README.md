@@ -41,8 +41,8 @@ I'm a software developer with a strong focus on backend architecture, mobile dev
 
 ### **AI & Machine Learning Capabilities**
 *   **Applied Techniques:** Retrieval-Augmented Generation (RAG), Multimodal AI integration, Prompt Engineering, and Data Scraping.
-*   **LLM Integration:** Experience working with both cloud APIs (OpenAI, DeepSeek) and deploying/inferencing local models (Qwen).
-*   **Data & Predictive Models:** Implementation of specialized models for NLP and data analysis (FinBERT, XGBoost).
+*   **LLM Integration:** Experience working with cloud APIs and deploying/inferencing local models.
+*   **Data & Predictive Models:** Implementation of specialized models for NLP and data analysis.
 
 ---
 
