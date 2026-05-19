@@ -1,4 +1,4 @@
-# Hi there, I'm Uriel Gandelman 👋
+# Hi there, I'm Uriel Gandelman 
 
 ### Software Developer | AI Systems & Agents | Community Leader
 
@@ -6,7 +6,7 @@ I'm a software developer focused on **AI agents, scalable systems, and low-level
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 * 🤝 **NegocIA:** An autonomous AI agent platform for automating complex buying and selling workflows end-to-end. Built during Platanus Hack.
 * 📈 **Traidx:** An AI-driven investment platform combining market sentiment analysis, prediction models, Docker, and a microservices architecture.
@@ -17,7 +17,7 @@ I'm a software developer focused on **AI agents, scalable systems, and low-level
 
 ---
 
-## 💻 Tech Stack & Tools
+##  Tech Stack & Tools
 
 ### **Languages**
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -47,7 +47,7 @@ I'm a software developer focused on **AI agents, scalable systems, and low-level
 
 ---
 
-## 🧠 AI & Systems Capabilities
+##  AI & Systems Capabilities
 
 * **Agentic AI & Orchestration:** Building autonomous agents, defining multi-step reasoning workflows, and developing tools for end-to-end task automation.
 * **Advanced LLM Engineering:** Advanced prompt engineering, structured data extraction, and deploying or fine-tuning local language models for domain-specific tasks without relying exclusively on external APIs.
