@@ -6,7 +6,7 @@ I'm a software developer with a strong focus on backend architecture, mobile dev
 
 ---
 
-## 🚀 What I'm Currently Working On
+##  What I'm Currently Working On
 
 *   📱 **StepByStories:** Developing a mobile application that uses AI to dynamically adapt books and stories to different language proficiency levels.
 *   📈 **Traidx:** Building an AI-driven trading system designed to analyze market data, financial news, and macroeconomic indicators through a microservices architecture.
@@ -15,7 +15,7 @@ I'm a software developer with a strong focus on backend architecture, mobile dev
 
 ---
 
-## 💻 Tech Stack & Tools
+##  Tech Stack & Tools
 
 ### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -39,7 +39,7 @@ I'm a software developer with a strong focus on backend architecture, mobile dev
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### **🧠 AI & Machine Learning Capabilities**
+### ** AI & Machine Learning Capabilities**
 *   **Applied Techniques:** Retrieval-Augmented Generation (RAG), Multimodal AI integration, Prompt Engineering, and Data Scraping.
 *   **LLM Integration:** Experience working with both cloud APIs (OpenAI, DeepSeek) and deploying/inferencing local models (Qwen).
 *   **Data & Predictive Models:** Implementation of specialized models for NLP and data analysis (FinBERT, XGBoost).
@@ -47,5 +47,5 @@ I'm a software developer with a strong focus on backend architecture, mobile dev
 ---
 
 ### 📫 Let's Connect!
-*   **LinkedIn:** [Link to your LinkedIn]
-*   **Email:** [Your Email Address]
+*   **LinkedIn:** [https://www.linkedin.com/in/uriel-gandelman-341a60398/]
+*   **Email:** [urigandelman@gmail.com]
